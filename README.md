@@ -1,6 +1,6 @@
-# Fiji Pig Fishing v2.0 — Realism Pass
+# Fiji Pig Fishing v2.1
 
-This version replaces generic fish with four detailed procedural species featuring articulated tails, fins, eyes, mouths, reflective materials, species patterns, smooth steering, schooling separation, coral avoidance, lure attraction, struggle motion, and weighted catches. It also improves water, particles, coral sway, rod, reel, lure, bucket, plank, and lighting.
+Gameplay and geometry update: realistic mixed coral colonies, triangular dorsal fins, fish eyes, defined tank frame, dock supports, stool placement, spoon lure with treble hook, lure jigging, staged rod bend, and a circular virtual reel.
 
-## Publish
-Upload this folder contents to the repository root, replacing matching files. Commit to `main`, wait for the Pages action to succeed, then hard refresh the live site.
+## Controls
+Aim with mouse. Click to cast. Click during the bite to set the hook. Drag the virtual reel clockwise or scroll upward to reel while keeping line pressure in green.
