@@ -1,14 +1,11 @@
-# Fiji Pig Fishing v2.3
-
-Clean rebuild of the browser game.
+# Fiji Pig Fishing v2.4
 
 ## Controls
-1. Move the mouse to aim.
-2. Click to lower the spoon lure.
-3. Click while the rod is bouncing to set the hook.
-4. Press and hold the yellow reel handle.
-5. Rotate clockwise at a steady pace.
-6. Keep the pressure marker in green. Too slow loses the fish; too fast breaks the line.
+1. Aim and cast the spoon lure.
+2. When the fish bites, press the red **PRESS HERE — BITE!** button on the reel.
+3. Press and hold either the large yellow handle or the reel face.
+4. Rotate clockwise continuously.
+5. Target roughly 36–72 RPM. The center of the green range is about 50 RPM.
+6. Too slow loses the fish. Too fast breaks the line.
 
-## Publish
-Upload the contents of this folder to the repository root. Keep `main.js` and `style.css` inside `src`. Commit to `main`; the included workflow builds and publishes the `dist` folder through GitHub Pages.
+The reel has a larger grab area, a short start grace period, and faster line retrieval.
