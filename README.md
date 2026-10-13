@@ -1,6 +1,7 @@
-# Fiji Pig Fishing v2.1
+# Fiji Pig Fishing v2.2
 
-Gameplay and geometry update: realistic mixed coral colonies, triangular dorsal fins, fish eyes, defined tank frame, dock supports, stool placement, spoon lure with treble hook, lure jigging, staged rod bend, and a circular virtual reel.
+## Reel controls
+After setting the hook, press and hold the large yellow reel handle. Rotate the pointer clockwise around the reel. Maintain a steady pace so the pressure marker stays green. Reeling too slowly drops pressure and the fish escapes. Reeling too quickly raises pressure and breaks the line.
 
-## Controls
-Aim with mouse. Click to cast. Click during the bite to set the hook. Drag the virtual reel clockwise or scroll upward to reel while keeping line pressure in green.
+## Visual updates
+The reel is much larger with an oversized handle. The pressure gauge is directly above the reel. The lure is a deeper reflective metal spoon with a connector ring and three-hook treble assembly.
