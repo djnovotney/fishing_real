@@ -1,10 +1,12 @@
-# Fiji Pig Fishing v2.7
+# Fiji Pig Fishing v2.8
 
-The line-pressure model is centered at exactly **200 RPM**.
+## Corrected reel calibration
+The game now calculates true RPM directly from clockwise angular movement and elapsed time.
 
-- Green-zone minimum: approximately 167 RPM
-- Ideal center: 200 RPM
-- Green-zone maximum: approximately 234 RPM
-- Below 167 RPM, pressure trends down and the fish can escape.
-- Above 234 RPM, pressure trends up and the line can break.
-- A 1.5-second grace period follows hook-set so the player can reach the handle and accelerate.
+- Green range: 170–235 RPM
+- Ideal: 200 RPM
+- Live RPM is shown beside the reel
+- One complete valid revolution retrieves about one vertical game unit, so successful reeling is much faster
+
+## Crank fix
+The grey crank arm and yellow handle are now children of the same rotating crank assembly. Both rotate together around the reel hub.
