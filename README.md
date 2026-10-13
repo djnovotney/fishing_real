@@ -1,11 +1,15 @@
-# Fiji Pig Fishing v2.4
+# Fiji Pig Fishing v2.5
 
-## Controls
-1. Aim and cast the spoon lure.
-2. When the fish bites, press the red **PRESS HERE — BITE!** button on the reel.
-3. Press and hold either the large yellow handle or the reel face.
-4. Rotate clockwise continuously.
-5. Target roughly 36–72 RPM. The center of the green range is about 50 RPM.
-6. Too slow loses the fish. Too fast breaks the line.
+## Updated catch sequence
+1. Cast and wait for a bite.
+2. A circular BITE NOW overlay covers the entire reel.
+3. When a fish bites, the overlay turns red and pulses.
+4. Press anywhere on the overlay to set the hook.
+5. The overlay fades away, revealing the reel handle.
+6. Hold the handle or reel face and rotate clockwise quickly.
 
-The reel has a larger grab area, a short start grace period, and faster line retrieval.
+## Reel tuning
+- Target range is approximately 53–100 RPM.
+- Ideal center is approximately 78 RPM.
+- Correct fast reeling retrieves line substantially faster.
+- Too slow loses pressure; too fast breaks the line.
